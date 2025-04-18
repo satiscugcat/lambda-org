@@ -1,17 +1,18 @@
 #+title: LAMBDA Tasks Organisation
 
-* 2025      :2025:
-** Spring Semester :spring:
-*** DONE Shortcourse on Interactive Theorem Proving :march:
+* 2025                                                                    :2025:
+** Spring Semester                                                      :spring:
+*** DONE Shortcourse on Interactive Theorem Proving                      :march:
     CLOSED: [2025-03-28 Wed 23:38]
-*** DONE Reach out to professors    :april:
+*** DONE Reach out to professors                                         :april:
     CLOSED: [2025-04-16 Wed 23:38]
-*** DONE Make Website :april:
+*** DONE Make Website                                                    :april:
     CLOSED: [2025-04-18 Fri 01:41]
     Some work has been done, mostly need to organise content better before publishing.
-*** TODO Discuss ideas with Math Hobby Group :april:
+*** TODO Discuss ideas with Math Hobby Group                             :april:
     Have sent an email, need to discuss in person.
-** Summer Break :summer:
+** Summer Break                                                         :summer:
+*** TODO Project for Physical Model of the Lambda Calc
 *** TODO Organise Reading Group for Algebra Chapter 0
 *** TODO Develop Projects for the Next Semester
     Current ideas are -
@@ -19,7 +20,7 @@
     + OCaml formal verification project.
 *** TODO Prepare for Technical Council Orientation
 *** TODO Formalise Club Induction Process
-** Fall Semester :fall:
+** Fall Semester                                                          :fall:
 *** TODO Learn OCaml Workshop
 *** TODO Formalisation Project with Balagopal Sir
-** Winter Break :winter:
+** Winter Break                                                         :winter:
