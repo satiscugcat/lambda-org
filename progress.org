@@ -7,12 +7,14 @@
 *** DONE Reach out to professors                                         :april:
     CLOSED: [2025-04-16 Wed 23:38]
 *** DONE Make Website                                                    :april:
-    CLOSED: [2025-04-18 Fri 01:41]
+    CLOSED: [2025-04-26 Sat 15:07]
     Some work has been done, mostly need to organise content better before publishing.
+    The website has been published!
 *** TODO Discuss ideas with Math Hobby Group                             :april:
     Have sent an email, need to discuss in person.
+    Have discussed with Math Hobby group members, need to set up timings and meeting link.
 ** Summer Break                                                         :summer:
-*** TODO Project for Physical Model of the Lambda Calc
+*** TODO Project for Physical Model of the Lambda Calculus
 *** TODO Organise Reading Group for Algebra Chapter 0
 *** TODO Develop Projects for the Next Semester
     Current ideas are -
@@ -23,4 +25,6 @@
 ** Fall Semester                                                          :fall:
 *** TODO Learn OCaml Workshop
 *** TODO Formalisation Project with Balagopal Sir
+    [[https://github.com/satiscugcat/lean-resources][Resources for learning LEAN4]] 
+*** TODO Organise Reading Group for PLT
 ** Winter Break                                                         :winter:
