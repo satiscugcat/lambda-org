@@ -10,21 +10,62 @@
     CLOSED: [2025-04-26 Sat 15:07]
     Some work has been done, mostly need to organise content better before publishing.
     The website has been published!
-*** TODO Discuss ideas with Math Hobby Group                             :april:
+*** DONE Discuss ideas with Math Hobby Group                             :april:
+    CLOSED: [2025-05-02 Fri 10:18]
     Have sent an email, need to discuss in person.
-    Have discussed with Math Hobby group members, need to set up timings and meeting link.
+    Have discussed with Math Hobby group members.
 ** Summer Break                                                         :summer:
 *** TODO Project for Physical Model of the Lambda Calculus
+    :PROPERTIES:
+    :MEMBERS: "Aniket Mishra" "Neal Apte Pineda" 
+    :PEOPLE: "John Azariah" "Neeldhara Misra" "Jyothi Krishnan"
+    :END:
+
+    Inspired by Prof. [[https://www.researchgate.net/profile/Inge-Schwank-2][Inge Schwank]]'s work on [[https://mathedidaktik.uni-koeln.de/dynamic-labyrinths][Dynamic Labyrinths]], this is a project at trying to make a physical model for the Lambda Calculus.
+    Another inspiration is [[https://worrydream.com/AlligatorEggs/][Alligator Eggs]], which tries to do something similar, but is quite a bit contrived in its presentation.
+    The hope is to make something more grounded, a basis for this might be [[https://en.wikipedia.org/wiki/Krivine_machine][Krivine Machines]].,
+    If you're interested in this let me know, even if you don't know the lambda calculus that is fine, I can explain it.
+    So far, no real progress has been made.
+    
 *** TODO Organise Reading Group for Algebra Chapter 0
+    :PROPERTIES:
+    :MEMBERS: "Aniket Mishra" "Neal Apte Pineda" 
+    :PEOPLE: "Tejas Lohia" "Shounak Ranade" "Priyanshi Agarwal"
+    :END:
+
+    Organising a reading group for the book [[https://agorism.dev/book/math/alg/algebra_chapter-0_paolo-aluffi.pdf][Algebra Chapter 0]], a book which tries to explain Algebra through the lens of Category theory.
+    Have made some talkings with NthDimension, but we haven't gotten around to fixing a weekly timing.
+
 *** TODO Develop Projects for the Next Semester
+    Project ideas so we can call students to work on them in the next semester.
+    (I think we should also categorise them from beginnner to advanced. This is less a rigorous classification and more so a way to get people comfortable with taking the projects.)
     Current ideas are -
     + OCaml open source contribution.
     + OCaml formal verification project.
 *** TODO Prepare for Technical Council Orientation
+    Preparing something cool for the the technical council orientation beforehand. This is important because it's the first impact we will make on the new batch.
 *** TODO Formalise Club Induction Process
+    Will have to discuss details with new technical council.
+*** TODO Draft a Proposal for Becoming a Club
+    We need to submit a proposal for the hobby group to become a club. It shouldn't be difficult, and should just involve recounting the activities we have done.
 ** Fall Semester                                                          :fall:
 *** TODO Learn OCaml Workshop
+    Workshop on the OCaml language, based on [[https://github.com/kayceesrk/learn-ocaml-workshop-2024][this]] by KC from IITM, we can also pick a bigger project from the [[https://github.com/janestreet/learn-ocaml-workshop][Jane Street]] version.
+    Doing this is important, as it opens up further collaboration with Jane Street and KC.
+    If you're interested in this, please reach out.
 *** TODO Formalisation Project with Balagopal Sir
+    :PROPERTIES:
+    :MEMBERS: "Aniket Mishra" "Anvit Aggrawal" "Gella Naga Sai Krishna"
+    :PEOPLE: "Balagopal Komarath"
+    :END:
+
+    Project to formalise theorems in circuit complexity in LEAN4,
+    This is to avoid some of the "hand-waving" normally done by pen and paper proofs that want avoid wasting time dealing with the complexity of a TM, sacrificing rigor in the process.
     [[https://github.com/satiscugcat/lean-resources][Resources for learning LEAN4]] 
 *** TODO Organise Reading Group for PLT
+    :PROPERTIES:
+    :MEMBERS: ALL
+    :END:
+
+    Weekly meetings to read PL papers, so we can stay consistent with our learning.
 ** Winter Break                                                         :winter:
