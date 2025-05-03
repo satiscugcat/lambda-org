@@ -53,6 +53,11 @@
     Workshop on the OCaml language, based on [[https://github.com/kayceesrk/learn-ocaml-workshop-2024][this]] by KC from IITM, we can also pick a bigger project from the [[https://github.com/janestreet/learn-ocaml-workshop][Jane Street]] version.
     Doing this is important, as it opens up further collaboration with Jane Street and KC.
     If you're interested in this, please reach out.
+*** TODO Rust Workshop
+    :PROPERTIES:
+    :MEMBERS: "Arjun B Dixit"
+    :END:
+    Rust workshop based on the resources in the learn Rust page.
 *** TODO Formalisation Project with Balagopal Sir
     :PROPERTIES:
     :MEMBERS: "Aniket Mishra" "Anvit Aggrawal" "Gella Naga Sai Krishna"
