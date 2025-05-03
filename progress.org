@@ -36,6 +36,13 @@
     Organising a reading group for the book [[https://agorism.dev/book/math/alg/algebra_chapter-0_paolo-aluffi.pdf][Algebra Chapter 0]], a book which tries to explain Algebra through the lens of Category theory.
     Have made some talkings with NthDimension, but we haven't gotten around to fixing a weekly timing.
 
+*** TODO Implementing a LSP
+    :PROPERTIES:
+    :MEMBERS: "Tanish Yelgoe" "Arjun B Dixit"
+    :END:
+
+    Writing a LSP for a language.
+
 *** TODO Develop Projects for the Next Semester
     Project ideas so we can call students to work on them in the next semester.
     (I think we should also categorise them from beginnner to advanced. This is less a rigorous classification and more so a way to get people comfortable with taking the projects.)
