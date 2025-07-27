@@ -55,6 +55,55 @@
     Will have to discuss details with new technical council.
 *** TODO Draft a Proposal for Becoming a Club
     We need to submit a proposal for the hobby group to become a club. It shouldn't be difficult, and should just involve recounting the activities we have done.
+*** Meeting on 27/07/2025 to discuss upcoming plans
+**** Sthapna Divas
+     2 tables, 2 charging ports
+     Last year, showcased books and Lox
+     
+     Python Lambda Parallel +
+     Possibly showing off Monads +
+     Fixpoint Operator
+
+     Formal Verification +
+     Showing Examples and Use Cases
+
+     Talk about Proofs +
+     Zero Knowledge Proofs
+**** Council Orientation
+
+     Have to Prepare Speech + Slides
+
+     Nice to focus on Real Life applications +
+     Refer to recent updates (T Tao and G Deepmind) +
+     Also discuss upcoming projects
+     
+**** HG to Club Proposal
+
+     Discuss Chandrabhan Bhaiya
+     
+**** Club Induction
+
+     Keep it Open, but also have specific  activities
+     during club induction period
+
+     Paper Reading = Both Conference and Specific +
+     LEAN4 Natural Numbers Game
+     
+**** Projects for Next Semester/Year
+     + LSP Implementation
+     + LEAN Formalisation - Balagopal Sir
+     + LEAN Formalisation - CSLib (Public Project)
+     + Working on PhD project - Abhishek Sir
+     + OCaml Workshop
+     + Discussing possibility of projects with industry researchers
+     + Physical Impl of LC - Neeldhara Maam (Not much progress so far,
+       may be possible with more people)
+     + Working on research paper (Ideas wanted!)
+     + Other Ideas Wanted (Best if it involves other people!)
+   
+**** Database for Speakers
+     Work on this is important!
+
 ** Fall Semester                                                          :fall:
 *** TODO Learn OCaml Workshop
     Workshop on the OCaml language, based on [[https://github.com/kayceesrk/learn-ocaml-workshop-2024][this]] by KC from IITM, we can also pick a bigger project from the [[https://github.com/janestreet/learn-ocaml-workshop][Jane Street]] version.
